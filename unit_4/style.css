@@ -1,0 +1,18 @@
+h1
+	{font-family: "Playfair Display", serif;
+	font-size: 200%;
+	font-weight:lighter;
+}
+
+p
+ {
+	font-family: "Helvetica", Times; serif;
+	font-size: 100%;
+	font-weight:lighter;
+
+}
+br
+	{ font-family: "Arial", sans-serif;
+	font-size:100%;
+	font-weight:bolder;
+}
